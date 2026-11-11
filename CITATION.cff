@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Simulation code and results for the effect of electrode spacing on a laboratory-scale ionic thruster"
+type: software
+version: "1.0.0"
+date-released: "2026-11-11"
+license: MIT
+repository-code: "https://github.com/mahesasb/ionic-thruster-electrode-spacing"
+abstract: >-
+  Reduced-order electrohydrodynamic model (charge simulation method, Peek onset,
+  field-line space-charge current, ion-drag thrust) with Monte Carlo uncertainty
+  and sensitivity analysis for a wire-to-tube-row ionic thruster. The results are
+  model predictions and have not been validated experimentally for the modelled device.
+keywords:
+  - ionic thruster
+  - corona discharge
+  - electrode spacing
+  - sparkover
+  - Monte Carlo simulation
+authors:
+  - family-names: Bhuwana
+    given-names: Mahesa Sangga
+    affiliation: "Universitas Widya Kartika, Surabaya, Indonesia"
+  - family-names: Aini
+    given-names: Rasyida Shabihah Zukro
+    affiliation: "Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia"
+  - family-names: Talakua
+    given-names: Eddy Lybrech
+    affiliation: "Universitas Widya Kartika, Surabaya, Indonesia"
